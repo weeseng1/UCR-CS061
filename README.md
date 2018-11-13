@@ -1,1 +1,1 @@
-# UCR-CS061
+# For reference only, read at your own risk
